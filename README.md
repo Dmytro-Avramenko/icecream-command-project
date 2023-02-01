@@ -1,1 +1,1 @@
-# icecream-command-project
+# icecream-command-git
